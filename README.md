@@ -1,5 +1,5 @@
 # Kubernetes cluster-api infrastructure provider Nutanix Cloud Infrastucture
-# vlalvalav
+
 ---
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/nutanix-cloud-native/cluster-api-provider-nutanix)](https://goreportcard.com/report/github.com/nutanix-cloud-native/cluster-api-provider-nutanix)
